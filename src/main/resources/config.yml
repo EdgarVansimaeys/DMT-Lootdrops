@@ -1,0 +1,6 @@
+Hoeveelheid-Items-Lootdrop: 5
+
+# %type% is de naam van de flare! Deze moet altijd op het einde zijn van de name!
+Flare-Name: "&aLootdrop Flare %type%"
+Flare-Lore:
+  - "&7Officieel DailyMT Lootdrop Flare"

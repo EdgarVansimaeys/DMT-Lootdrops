@@ -1,0 +1,7 @@
+name: DMT-Lootdrops
+version: '${project.version}'
+main: be.nateoncaprisun.dmtlootdrops.LootdropPlugin
+authors: [ NateOnCaprisun, EddieFreddie, Jazzkuh]
+description: DailyMT Lootdrops
+commands:
+  lootdrop:
